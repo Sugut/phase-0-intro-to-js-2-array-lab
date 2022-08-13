@@ -75,6 +75,7 @@ describe('index.js', function () {
         expect(cats).to.have.ordered.members(["Milo", "Otis", "Garfield"]);
       });
     });
+  
   });
 });
 
